@@ -8,8 +8,8 @@ An end-to-end Excel analytics project analyzing Amazon last-mile delivery perfor
 
 ## 📊 Key KPIs
 - Total Deliveries: 43,648  
-- On-Time Delivery %: 48.8%  
-- Average Delay (minutes): 5  
+- On-Time Delivery %: 41.9%  
+- Average Delay (minutes): 15  
 - Average Speed (km/h): 17.2  
 
 ## 🔍 Dashboard Insights (Examples)
