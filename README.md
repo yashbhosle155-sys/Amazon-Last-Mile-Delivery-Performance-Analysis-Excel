@@ -3,14 +3,14 @@ An end-to-end Excel analytics project analyzing Amazon last-mile delivery perfor
 
 ## 🎯 Objectives
 - Measure delivery performance using key KPIs (On-time %, Average Delay, Average Speed).
-- Analyze how *Area, **Traffic conditions, and **Vehicle type* impact delivery outcomes.
+- Analyze how Area, Traffic conditions, and Vehicle type impact delivery outcomes.
 - Provide a clear, business-ready dashboard for operational insights and SLA monitoring.
 
 ## 📊 Key KPIs
-- *Total Deliveries:* 43,648  
-- *On-Time Delivery %:* ~48.8%  
-- *Average Delay (minutes):* ~5  
-- *Average Speed (km/h):* ~17.2  
+- *Total Deliveries: 43,648  
+- *On-Time Delivery %: 48.8%  
+- *Average Delay (minutes): 5  
+- *Average Speed (km/h): ~17.2  
 
 ## 🔍 Dashboard Insights (Examples)
 - On-time delivery performance varies significantly by *area type* (Metropolitan, Urban, Semi-Urban, Other).
