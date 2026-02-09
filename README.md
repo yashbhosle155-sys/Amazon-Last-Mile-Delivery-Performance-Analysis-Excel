@@ -10,7 +10,7 @@ An end-to-end Excel analytics project analyzing Amazon last-mile delivery perfor
 - Total Deliveries: 43,648  
 - On-Time Delivery %: 48.8%  
 - Average Delay (minutes): 5  
-- Average Speed (km/h): ~17.2  
+- Average Speed (km/h): 17.2  
 
 ## 🔍 Dashboard Insights (Examples)
 - On-time delivery performance varies significantly by *area type* (Metropolitan, Urban, Semi-Urban, Other).
