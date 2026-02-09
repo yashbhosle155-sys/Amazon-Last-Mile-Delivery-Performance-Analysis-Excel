@@ -7,22 +7,22 @@ An end-to-end Excel analytics project analyzing Amazon last-mile delivery perfor
 - Provide a clear, business-ready dashboard for operational insights and SLA monitoring.
 
 ## 📊 Key KPIs
-- *Total Deliveries: 43,648  
-- *On-Time Delivery %: 48.8%  
-- *Average Delay (minutes): 5  
-- *Average Speed (km/h): ~17.2  
+- Total Deliveries: 43,648  
+- On-Time Delivery %: 48.8%  
+- Average Delay (minutes): 5  
+- Average Speed (km/h): ~17.2  
 
 ## 🔍 Dashboard Insights (Examples)
 - On-time delivery performance varies significantly by *area type* (Metropolitan, Urban, Semi-Urban, Other).
-- *Traffic conditions* strongly influence delays, with traffic jams causing the highest average delays.
-- *Vehicle type* shows performance differences, highlighting efficiency variations across motorcycle, scooter, and van deliveries.
+- Traffic conditions strongly influence delays, with traffic jams causing the highest average delays.
+- Vehicle type shows performance differences, highlighting efficiency variations across motorcycle, scooter, and van deliveries.
 
 ## 🛠 Features
-- *Power Query* used for data cleaning and transformation (repeatable ETL process).
-- *KPI Summary Sheet* for centralized performance metrics.
-- *Pivot Tables & Pivot Charts* to compare delivery performance across dimensions.
-- *Parameter control (SLA_Minutes)* to simulate SLA threshold impact.
-- *Data Dictionary* documenting business meaning of key columns.
+- Power Query used for data cleaning and transformation (repeatable ETL process).
+- KPI Summary Sheet for centralized performance metrics.
+- Pivot Tables & Pivot Charts to compare delivery performance across dimensions.
+- Parameter control (SLA_Minutes) to simulate SLA threshold impact.
+- Data Dictionary documenting business meaning of key columns.
 
 ## 🧰 Tools Used
 - Microsoft Excel  
@@ -41,9 +41,9 @@ An end-to-end Excel analytics project analyzing Amazon last-mile delivery perfor
 ## ▶️ How to Use
 1. Download the Excel file from this repository.
 2. Open in Microsoft Excel (enable editing if prompted).
-3. Go to *Data → Refresh All* to update Power Query and pivot tables.
-4. Review KPIs and charts on the *Dashboard* sheet.
-5. To test SLA impact, update SLA_Minutes in the *03_Parameter* sheet and refresh.
+3. Go to Data → Refresh All to update Power Query and pivot tables.
+4. Review KPIs and charts on the Dashboard sheet.
+5. To test SLA impact, update SLA_Minutes in the 03_Parameter sheet and refresh.
 
 ## ⚠️ Notes / Limitations
 - Metrics depend on source data quality; missing values may appear as blanks.
