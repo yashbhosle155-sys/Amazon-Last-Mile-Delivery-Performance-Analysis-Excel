@@ -13,7 +13,7 @@ An end-to-end Excel analytics project analyzing Amazon last-mile delivery perfor
 - Average Speed (km/h): 17.2  
 
 ## 🔍 Dashboard Insights (Examples)
-- On-time delivery performance varies significantly by *area type* (Metropolitan, Urban, Semi-Urban, Other).
+- On-time delivery performance varies significantly by *area type* (Metropolitian, Urban, Semi-Urban, Other).
 - Traffic conditions strongly influence delays, with traffic jams causing the highest average delays.
 - Vehicle type shows performance differences, highlighting efficiency variations across motorcycle, scooter, and van deliveries.
 
