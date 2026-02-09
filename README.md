@@ -56,4 +56,3 @@ An end-to-end Excel analytics project analyzing Amazon last-mile delivery perfor
 
 ## 📸 Screenshots
 ![Dashboard view 1](Screenshots/Screenshot%20(1).png)
-![Dashboard view 2](Screenshots/Screenshot%20(2).png)
